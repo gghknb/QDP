@@ -1,0 +1,4 @@
+민정 feature와 영준 feature 종합
+
+parameter 추가하고,
+training epoch 수정.
