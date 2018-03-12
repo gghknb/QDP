@@ -16,4 +16,4 @@ https://www.kaggle.com/c/quora-question-pairs/data
 ./combine_lstm_xgboost.py    data linear ensemble code
 
 # score 
-[Ranking and score](./image.JPG)
+![Ranking and score](./image.JPG)
