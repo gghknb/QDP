@@ -4,7 +4,7 @@ https://www.kaggle.com/dhc321/quora-question-pairs/test-quora/code
 
 https://www.kaggle.com/irenedo/quora-question-pairs/data-analysis-xgboost-starter-0-35460-lb-f072f3
 
-#Dataset
+# Dataset
 https://www.kaggle.com/c/quora-question-pairs/data
 
 
@@ -14,3 +14,6 @@ https://www.kaggle.com/c/quora-question-pairs/data
 ./HYM_LSTM.ipnyb             lstm code
 
 ./combine_lstm_xgboost.py    data linear ensemble code
+
+# score 
+[Ranking and score](./image.JPG)
