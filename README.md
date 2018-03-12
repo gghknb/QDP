@@ -10,5 +10,7 @@ https://www.kaggle.com/c/quora-question-pairs/data
 
 # Code
 ./Minjung/HYM_5.ipynb	       xgboost code
+
 ./HYM_LSTM.ipnyb             lstm code
+
 ./combine_lstm_xgboost.py    data linear ensemble code
